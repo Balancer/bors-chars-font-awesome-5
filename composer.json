@@ -1,0 +1,21 @@
+{
+	"name": "balancer/bors-chars-font-awesome-5",
+	"description": "Character sets for the BORS© framework",
+
+	"authors": [
+		{ "name": "Balancer", "email": "balancer@balancer.ru" }
+	],
+
+	"require": {
+	},
+
+    "autoload": {
+		"psr-4": {
+			"B2\\Chars\\": "./"
+		}
+    },
+
+    "extra": {
+        "bors-chars": ["B2\\Chars\\FontAwesome5"]
+    }
+}
