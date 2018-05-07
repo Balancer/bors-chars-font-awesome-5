@@ -7,7 +7,7 @@
 	],
 
 	"require": {
-		"bors/font-awesome": "^5.0"
+		"bors/font-awesome": "^5.0 || dev-master"
 	},
 
     "autoload": {
